@@ -1,0 +1,13 @@
+{
+  "autoload": {
+        "psr-0": {
+            "Coop": "libraries/coop/src"
+        }
+    }
+  , "require": {
+      "cboden/Ratchet": "0.3.*"
+    }
+  , "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
